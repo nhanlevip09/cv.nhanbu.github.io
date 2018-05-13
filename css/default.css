@@ -1,2 +1,9 @@
 /* CSS Document */
-
+body{
+	font-size: 14px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+.container{
+	width: 1400px;
+	margin: 0 auto;
+}
